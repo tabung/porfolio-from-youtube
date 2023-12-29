@@ -18,7 +18,11 @@ bun dev
 
 url: https://www.youtube.com/watch?v=Rew98iFupBM
 
+```
 - 42:12
+- 58:13
+
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 

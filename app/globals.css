@@ -51,6 +51,13 @@
   }
 }
 
+.h1 {
+  @apply text-6xl xl:text-[72px] xl:leading-[80px] tracking-[-2px] font-bold;
+}
+.subtitle {
+  @apply text-muted-foreground text-lg mb-8 font-light;
+}
+
 @layer base {
   * {
     @apply border-border;
@@ -59,4 +66,3 @@
     @apply bg-background text-foreground;
   }
 }
-
